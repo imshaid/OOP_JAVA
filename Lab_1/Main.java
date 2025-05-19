@@ -2,6 +2,7 @@ package Lab_1;
 
 public class Main {
     public static void main(String[] args) {
+        // Creating a Student object
         Student std1 = new Student();
 
         std1.id = "241-15-360";
@@ -14,6 +15,7 @@ public class Main {
 
         System.out.println();
 
+        // Creating a Teacher object
         Teacher tec1 = new Teacher();
 
         tec1.id = "710002796";
