@@ -93,8 +93,8 @@ If you found any mistake, have suggestions, or just want to say hi 👋 — feel
 I'm always open to feedback, discussions, or helping fellow learners. 🚀
 
 - 📧 **Email: lovingenthusiast.le@gmail.com**
-- 🌐 **Medium Blog: [imshaid](https://medium.com/@imshaid)**
-- 🧑‍💻 **GitHub Profile: [shaid30044](https://github.com/shaid30044)**
+- 🧑‍💻 **GitHub Profile: [imshaid](https://github.com/imshaid)**
+- 🌐 **Medium Article: [imshaid](https://medium.com/@imshaid)**
 
 > 💡 You can also open a GitHub **Issue** in this repo if you'd like to suggest improvements (although PRs are disabled).
 
