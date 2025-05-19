@@ -2,7 +2,7 @@
 
 Welcome to my **Object-Oriented Programming (OOP) Lab Repository**, maintained as part of the **CSE 4th Semester** coursework at **Daffodil International University (DIU)**. This repository will be updated weekly with my lab tasks and Java programs, written and tested using **Visual Studio Code (VS Code)** with **JDK 24**.
 
-> 👨‍🏫 **Instructor:** Ms. Nasima Islam Bithi,  Lecturer, Department of CSE
+> 👨‍🏫 **Instructor:** Ms. Nasima Islam Bithi,  Lecturer, Department of CSE<br/>
 > 🎓 **Student:** Md. Shaid Hasan (ID: 241-15-360)
 
 ---
